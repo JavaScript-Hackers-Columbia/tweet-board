@@ -40,5 +40,5 @@ app.get('/twitter/oauth', function() {
 https.createServer(options, app).listen('3200');
 http.createServer(app).listen('3000');
 
-console.log( 'HTTP -  Express started on port %d', 3000 );
+console.log( 'HTTP  - Express started on port %d', 3000 );
 console.log( 'HTTPS - Express started on port %d', 3200 );
