@@ -17,6 +17,8 @@
   "gitHead": "3868b2458c6c54ef5905e8ae68ef92ab9392efb6",
   "dependencies" : {
     "express" : "*",
-    "jade" : "*"
+    "jade" : "*",
+    "node-uuid" : "*",
+    "request" : "*"
   }
 }
