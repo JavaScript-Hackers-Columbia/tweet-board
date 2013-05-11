@@ -1,0 +1,13 @@
+{
+  "name": "tweet-board",
+  "version": "0.0.0",
+  "main": "server.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies" : {
+    "bootstrap" : "latest"
+  }
+}
